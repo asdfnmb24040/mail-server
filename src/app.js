@@ -1,21 +1,28 @@
 const express = require( 'express' );
 const bodyParser = require( 'body-parser' )
+const rateLimit = require( "express-rate-limit" );
+const cors = require( 'cors' );
 const mail = require( './route/mail' );
 const app = express();
 const port = 3002;
 
+const corsOptions = {
+	origin: [
+		'http://localhost:3000',
+		'http://localhost:3001',
+	],
+	credentials: true,
+	allowedHeaders: [ 'Content-Type', 'Authorization' ],
+};
 app.listen( port, () => {
 	console.log( `app listening at http://localhost:${port}` )
 } )
 
-app.get( '/', ( req, res ) => {
-	res.send( 'Hello World!' )
-} )
 
+app.use( cors( corsOptions ) );
 app.use( bodyParser.json() )
 app.use( bodyParser.urlencoded( { extended: true } ) )
 app.use( '/mail', mail );
-
 
 const fs = require( 'fs' );
 const path = require( 'path' );
@@ -26,7 +33,7 @@ const common = require( './utils/common' );
 //init
 ( async () => {
 	await init();
-	// await mailInterval();
+	await mailInterval();
 } )();
 
 
@@ -70,7 +77,7 @@ async function init () {
 
 async function mailInterval () {
 	console.log( '=== mailInterval ===' );
-	const pauseTime = 5000;
+	const pauseTime = 1000;
 	let lastIndex = null;
 
 	const interval = setInterval( async () => {
@@ -165,7 +172,7 @@ function sendMail ( mailItem ) {
 			return;
 		} );
 		// console.log( 'send test' )
-		return;
+		// return;
 
 	} catch ( error ) {
 		console.log( error )

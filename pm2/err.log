@@ -1,0 +1,2144 @@
+2021-09-24 17:06:00: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:06:00:   errno: -4058,
+2021-09-24 17:06:00:   code: 'ENOENT',
+2021-09-24 17:06:00:   syscall: 'open',
+2021-09-24 17:06:00:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:06:00: }
+2021-09-24 17:06:05: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:06:05:   errno: -4058,
+2021-09-24 17:06:05:   code: 'ENOENT',
+2021-09-24 17:06:05:   syscall: 'open',
+2021-09-24 17:06:05:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:06:05: }
+2021-09-24 17:06:10: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:06:10:   errno: -4058,
+2021-09-24 17:06:10:   code: 'ENOENT',
+2021-09-24 17:06:10:   syscall: 'open',
+2021-09-24 17:06:10:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:06:10: }
+2021-09-24 17:06:15: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:06:15:   errno: -4058,
+2021-09-24 17:06:15:   code: 'ENOENT',
+2021-09-24 17:06:15:   syscall: 'open',
+2021-09-24 17:06:15:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:06:15: }
+2021-09-24 17:06:20: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:06:20:   errno: -4058,
+2021-09-24 17:06:20:   code: 'ENOENT',
+2021-09-24 17:06:20:   syscall: 'open',
+2021-09-24 17:06:20:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:06:20: }
+2021-09-24 17:06:25: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:06:25:   errno: -4058,
+2021-09-24 17:06:25:   code: 'ENOENT',
+2021-09-24 17:06:25:   syscall: 'open',
+2021-09-24 17:06:25:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:06:25: }
+2021-09-24 17:06:30: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:06:30:   errno: -4058,
+2021-09-24 17:06:30:   code: 'ENOENT',
+2021-09-24 17:06:30:   syscall: 'open',
+2021-09-24 17:06:30:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:06:30: }
+2021-09-24 17:06:35: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:06:35:   errno: -4058,
+2021-09-24 17:06:35:   code: 'ENOENT',
+2021-09-24 17:06:35:   syscall: 'open',
+2021-09-24 17:06:35:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:06:35: }
+2021-09-24 17:06:40: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:06:40:   errno: -4058,
+2021-09-24 17:06:40:   code: 'ENOENT',
+2021-09-24 17:06:40:   syscall: 'open',
+2021-09-24 17:06:40:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:06:40: }
+2021-09-24 17:06:45: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:06:45:   errno: -4058,
+2021-09-24 17:06:45:   code: 'ENOENT',
+2021-09-24 17:06:45:   syscall: 'open',
+2021-09-24 17:06:45:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:06:45: }
+2021-09-24 17:06:50: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:06:50:   errno: -4058,
+2021-09-24 17:06:50:   code: 'ENOENT',
+2021-09-24 17:06:50:   syscall: 'open',
+2021-09-24 17:06:50:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:06:50: }
+2021-09-24 17:06:55: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:06:55:   errno: -4058,
+2021-09-24 17:06:55:   code: 'ENOENT',
+2021-09-24 17:06:55:   syscall: 'open',
+2021-09-24 17:06:55:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:06:55: }
+2021-09-24 17:07:00: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:07:00:   errno: -4058,
+2021-09-24 17:07:00:   code: 'ENOENT',
+2021-09-24 17:07:00:   syscall: 'open',
+2021-09-24 17:07:00:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:07:00: }
+2021-09-24 17:07:05: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:07:05:   errno: -4058,
+2021-09-24 17:07:05:   code: 'ENOENT',
+2021-09-24 17:07:05:   syscall: 'open',
+2021-09-24 17:07:05:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:07:05: }
+2021-09-24 17:07:10: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:07:10:   errno: -4058,
+2021-09-24 17:07:10:   code: 'ENOENT',
+2021-09-24 17:07:10:   syscall: 'open',
+2021-09-24 17:07:10:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:07:10: }
+2021-09-24 17:07:15: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:07:15:   errno: -4058,
+2021-09-24 17:07:15:   code: 'ENOENT',
+2021-09-24 17:07:15:   syscall: 'open',
+2021-09-24 17:07:15:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:07:15: }
+2021-09-24 17:07:20: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:07:20:   errno: -4058,
+2021-09-24 17:07:20:   code: 'ENOENT',
+2021-09-24 17:07:20:   syscall: 'open',
+2021-09-24 17:07:20:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:07:20: }
+2021-09-24 17:07:25: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:07:25:   errno: -4058,
+2021-09-24 17:07:25:   code: 'ENOENT',
+2021-09-24 17:07:25:   syscall: 'open',
+2021-09-24 17:07:25:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:07:25: }
+2021-09-24 17:07:30: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:07:30:   errno: -4058,
+2021-09-24 17:07:30:   code: 'ENOENT',
+2021-09-24 17:07:30:   syscall: 'open',
+2021-09-24 17:07:30:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:07:30: }
+2021-09-24 17:07:35: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:07:35:   errno: -4058,
+2021-09-24 17:07:35:   code: 'ENOENT',
+2021-09-24 17:07:35:   syscall: 'open',
+2021-09-24 17:07:35:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:07:35: }
+2021-09-24 17:07:40: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:07:40:   errno: -4058,
+2021-09-24 17:07:40:   code: 'ENOENT',
+2021-09-24 17:07:40:   syscall: 'open',
+2021-09-24 17:07:40:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:07:40: }
+2021-09-24 17:07:45: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:07:45:   errno: -4058,
+2021-09-24 17:07:45:   code: 'ENOENT',
+2021-09-24 17:07:45:   syscall: 'open',
+2021-09-24 17:07:45:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:07:45: }
+2021-09-24 17:07:50: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:07:50:   errno: -4058,
+2021-09-24 17:07:50:   code: 'ENOENT',
+2021-09-24 17:07:50:   syscall: 'open',
+2021-09-24 17:07:50:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:07:50: }
+2021-09-24 17:07:55: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:07:55:   errno: -4058,
+2021-09-24 17:07:55:   code: 'ENOENT',
+2021-09-24 17:07:55:   syscall: 'open',
+2021-09-24 17:07:55:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:07:55: }
+2021-09-24 17:08:00: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:08:00:   errno: -4058,
+2021-09-24 17:08:00:   code: 'ENOENT',
+2021-09-24 17:08:00:   syscall: 'open',
+2021-09-24 17:08:00:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:08:00: }
+2021-09-24 17:08:05: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:08:05:   errno: -4058,
+2021-09-24 17:08:05:   code: 'ENOENT',
+2021-09-24 17:08:05:   syscall: 'open',
+2021-09-24 17:08:05:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:08:05: }
+2021-09-24 17:08:10: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:08:10:   errno: -4058,
+2021-09-24 17:08:10:   code: 'ENOENT',
+2021-09-24 17:08:10:   syscall: 'open',
+2021-09-24 17:08:10:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:08:10: }
+2021-09-24 17:08:15: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:08:15:   errno: -4058,
+2021-09-24 17:08:15:   code: 'ENOENT',
+2021-09-24 17:08:15:   syscall: 'open',
+2021-09-24 17:08:15:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:08:15: }
+2021-09-24 17:08:20: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:08:20:   errno: -4058,
+2021-09-24 17:08:20:   code: 'ENOENT',
+2021-09-24 17:08:20:   syscall: 'open',
+2021-09-24 17:08:20:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:08:20: }
+2021-09-24 17:08:25: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:08:25:   errno: -4058,
+2021-09-24 17:08:25:   code: 'ENOENT',
+2021-09-24 17:08:25:   syscall: 'open',
+2021-09-24 17:08:25:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:08:25: }
+2021-09-24 17:08:30: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:08:30:   errno: -4058,
+2021-09-24 17:08:30:   code: 'ENOENT',
+2021-09-24 17:08:30:   syscall: 'open',
+2021-09-24 17:08:30:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:08:30: }
+2021-09-24 17:08:35: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:08:35:   errno: -4058,
+2021-09-24 17:08:35:   code: 'ENOENT',
+2021-09-24 17:08:35:   syscall: 'open',
+2021-09-24 17:08:35:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:08:35: }
+2021-09-24 17:08:40: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:08:40:   errno: -4058,
+2021-09-24 17:08:40:   code: 'ENOENT',
+2021-09-24 17:08:40:   syscall: 'open',
+2021-09-24 17:08:40:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:08:40: }
+2021-09-24 17:08:45: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:08:45:   errno: -4058,
+2021-09-24 17:08:45:   code: 'ENOENT',
+2021-09-24 17:08:45:   syscall: 'open',
+2021-09-24 17:08:45:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:08:45: }
+2021-09-24 17:08:50: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:08:50:   errno: -4058,
+2021-09-24 17:08:50:   code: 'ENOENT',
+2021-09-24 17:08:50:   syscall: 'open',
+2021-09-24 17:08:50:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:08:50: }
+2021-09-24 17:08:55: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:08:55:   errno: -4058,
+2021-09-24 17:08:55:   code: 'ENOENT',
+2021-09-24 17:08:55:   syscall: 'open',
+2021-09-24 17:08:55:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:08:55: }
+2021-09-24 17:09:00: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:09:00:   errno: -4058,
+2021-09-24 17:09:00:   code: 'ENOENT',
+2021-09-24 17:09:00:   syscall: 'open',
+2021-09-24 17:09:00:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:09:00: }
+2021-09-24 17:09:05: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:09:05:   errno: -4058,
+2021-09-24 17:09:05:   code: 'ENOENT',
+2021-09-24 17:09:05:   syscall: 'open',
+2021-09-24 17:09:05:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:09:05: }
+2021-09-24 17:09:10: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:09:10:   errno: -4058,
+2021-09-24 17:09:10:   code: 'ENOENT',
+2021-09-24 17:09:10:   syscall: 'open',
+2021-09-24 17:09:10:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:09:10: }
+2021-09-24 17:09:15: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:09:15:   errno: -4058,
+2021-09-24 17:09:15:   code: 'ENOENT',
+2021-09-24 17:09:15:   syscall: 'open',
+2021-09-24 17:09:15:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:09:15: }
+2021-09-24 17:09:20: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:09:20:   errno: -4058,
+2021-09-24 17:09:20:   code: 'ENOENT',
+2021-09-24 17:09:20:   syscall: 'open',
+2021-09-24 17:09:20:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:09:20: }
+2021-09-24 17:09:25: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:09:25:   errno: -4058,
+2021-09-24 17:09:25:   code: 'ENOENT',
+2021-09-24 17:09:25:   syscall: 'open',
+2021-09-24 17:09:25:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:09:25: }
+2021-09-24 17:09:30: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:09:30:   errno: -4058,
+2021-09-24 17:09:30:   code: 'ENOENT',
+2021-09-24 17:09:30:   syscall: 'open',
+2021-09-24 17:09:30:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:09:30: }
+2021-09-24 17:09:35: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:09:35:   errno: -4058,
+2021-09-24 17:09:35:   code: 'ENOENT',
+2021-09-24 17:09:35:   syscall: 'open',
+2021-09-24 17:09:35:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:09:35: }
+2021-09-24 17:09:40: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:09:40:   errno: -4058,
+2021-09-24 17:09:40:   code: 'ENOENT',
+2021-09-24 17:09:40:   syscall: 'open',
+2021-09-24 17:09:40:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:09:40: }
+2021-09-24 17:09:45: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:09:45:   errno: -4058,
+2021-09-24 17:09:45:   code: 'ENOENT',
+2021-09-24 17:09:45:   syscall: 'open',
+2021-09-24 17:09:45:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:09:45: }
+2021-09-24 17:09:50: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:09:50:   errno: -4058,
+2021-09-24 17:09:50:   code: 'ENOENT',
+2021-09-24 17:09:50:   syscall: 'open',
+2021-09-24 17:09:50:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:09:50: }
+2021-09-24 17:09:55: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:09:55:   errno: -4058,
+2021-09-24 17:09:55:   code: 'ENOENT',
+2021-09-24 17:09:55:   syscall: 'open',
+2021-09-24 17:09:55:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:09:55: }
+2021-09-24 17:10:00: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:10:00:   errno: -4058,
+2021-09-24 17:10:00:   code: 'ENOENT',
+2021-09-24 17:10:00:   syscall: 'open',
+2021-09-24 17:10:00:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:10:00: }
+2021-09-24 17:10:05: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:10:05:   errno: -4058,
+2021-09-24 17:10:05:   code: 'ENOENT',
+2021-09-24 17:10:05:   syscall: 'open',
+2021-09-24 17:10:05:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:10:05: }
+2021-09-24 17:10:10: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:10:10:   errno: -4058,
+2021-09-24 17:10:10:   code: 'ENOENT',
+2021-09-24 17:10:10:   syscall: 'open',
+2021-09-24 17:10:10:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:10:10: }
+2021-09-24 17:10:15: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:10:15:   errno: -4058,
+2021-09-24 17:10:15:   code: 'ENOENT',
+2021-09-24 17:10:15:   syscall: 'open',
+2021-09-24 17:10:15:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:10:15: }
+2021-09-24 17:10:20: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:10:20:   errno: -4058,
+2021-09-24 17:10:20:   code: 'ENOENT',
+2021-09-24 17:10:20:   syscall: 'open',
+2021-09-24 17:10:20:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:10:20: }
+2021-09-24 17:10:25: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:10:25:   errno: -4058,
+2021-09-24 17:10:25:   code: 'ENOENT',
+2021-09-24 17:10:25:   syscall: 'open',
+2021-09-24 17:10:25:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:10:25: }
+2021-09-24 17:10:30: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:10:30:   errno: -4058,
+2021-09-24 17:10:30:   code: 'ENOENT',
+2021-09-24 17:10:30:   syscall: 'open',
+2021-09-24 17:10:30:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:10:30: }
+2021-09-24 17:10:35: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:10:35:   errno: -4058,
+2021-09-24 17:10:35:   code: 'ENOENT',
+2021-09-24 17:10:35:   syscall: 'open',
+2021-09-24 17:10:35:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:10:35: }
+2021-09-24 17:10:40: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:10:40:   errno: -4058,
+2021-09-24 17:10:40:   code: 'ENOENT',
+2021-09-24 17:10:40:   syscall: 'open',
+2021-09-24 17:10:40:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:10:40: }
+2021-09-24 17:10:45: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:10:45:   errno: -4058,
+2021-09-24 17:10:45:   code: 'ENOENT',
+2021-09-24 17:10:45:   syscall: 'open',
+2021-09-24 17:10:45:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:10:45: }
+2021-09-24 17:10:50: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:10:50:   errno: -4058,
+2021-09-24 17:10:50:   code: 'ENOENT',
+2021-09-24 17:10:50:   syscall: 'open',
+2021-09-24 17:10:50:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:10:50: }
+2021-09-24 17:10:55: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:10:55:   errno: -4058,
+2021-09-24 17:10:55:   code: 'ENOENT',
+2021-09-24 17:10:55:   syscall: 'open',
+2021-09-24 17:10:55:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:10:55: }
+2021-09-24 17:11:00: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:11:00:   errno: -4058,
+2021-09-24 17:11:00:   code: 'ENOENT',
+2021-09-24 17:11:00:   syscall: 'open',
+2021-09-24 17:11:00:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:11:00: }
+2021-09-24 17:11:05: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:11:05:   errno: -4058,
+2021-09-24 17:11:05:   code: 'ENOENT',
+2021-09-24 17:11:05:   syscall: 'open',
+2021-09-24 17:11:05:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:11:05: }
+2021-09-24 17:11:10: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:11:10:   errno: -4058,
+2021-09-24 17:11:10:   code: 'ENOENT',
+2021-09-24 17:11:10:   syscall: 'open',
+2021-09-24 17:11:10:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:11:10: }
+2021-09-24 17:11:15: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:11:15:   errno: -4058,
+2021-09-24 17:11:15:   code: 'ENOENT',
+2021-09-24 17:11:15:   syscall: 'open',
+2021-09-24 17:11:15:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:11:15: }
+2021-09-24 17:11:20: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:11:20:   errno: -4058,
+2021-09-24 17:11:20:   code: 'ENOENT',
+2021-09-24 17:11:20:   syscall: 'open',
+2021-09-24 17:11:20:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:11:20: }
+2021-09-24 17:11:25: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:11:25:   errno: -4058,
+2021-09-24 17:11:25:   code: 'ENOENT',
+2021-09-24 17:11:25:   syscall: 'open',
+2021-09-24 17:11:25:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:11:25: }
+2021-09-24 17:11:30: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:11:30:   errno: -4058,
+2021-09-24 17:11:30:   code: 'ENOENT',
+2021-09-24 17:11:30:   syscall: 'open',
+2021-09-24 17:11:30:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:11:30: }
+2021-09-24 17:11:35: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:11:35:   errno: -4058,
+2021-09-24 17:11:35:   code: 'ENOENT',
+2021-09-24 17:11:35:   syscall: 'open',
+2021-09-24 17:11:35:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:11:35: }
+2021-09-24 17:11:40: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:11:40:   errno: -4058,
+2021-09-24 17:11:40:   code: 'ENOENT',
+2021-09-24 17:11:40:   syscall: 'open',
+2021-09-24 17:11:40:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:11:40: }
+2021-09-24 17:11:45: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:11:45:   errno: -4058,
+2021-09-24 17:11:45:   code: 'ENOENT',
+2021-09-24 17:11:45:   syscall: 'open',
+2021-09-24 17:11:45:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:11:45: }
+2021-09-24 17:11:50: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:11:50:   errno: -4058,
+2021-09-24 17:11:50:   code: 'ENOENT',
+2021-09-24 17:11:50:   syscall: 'open',
+2021-09-24 17:11:50:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:11:50: }
+2021-09-24 17:11:55: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:11:55:   errno: -4058,
+2021-09-24 17:11:55:   code: 'ENOENT',
+2021-09-24 17:11:55:   syscall: 'open',
+2021-09-24 17:11:55:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:11:55: }
+2021-09-24 17:12:00: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:12:00:   errno: -4058,
+2021-09-24 17:12:00:   code: 'ENOENT',
+2021-09-24 17:12:00:   syscall: 'open',
+2021-09-24 17:12:00:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:12:00: }
+2021-09-24 17:12:05: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:12:05:   errno: -4058,
+2021-09-24 17:12:05:   code: 'ENOENT',
+2021-09-24 17:12:05:   syscall: 'open',
+2021-09-24 17:12:05:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:12:05: }
+2021-09-24 17:12:10: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:12:10:   errno: -4058,
+2021-09-24 17:12:10:   code: 'ENOENT',
+2021-09-24 17:12:10:   syscall: 'open',
+2021-09-24 17:12:10:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:12:10: }
+2021-09-24 17:12:16: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:12:16:   errno: -4058,
+2021-09-24 17:12:16:   code: 'ENOENT',
+2021-09-24 17:12:16:   syscall: 'open',
+2021-09-24 17:12:16:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:12:16: }
+2021-09-24 17:12:21: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:12:21:   errno: -4058,
+2021-09-24 17:12:21:   code: 'ENOENT',
+2021-09-24 17:12:21:   syscall: 'open',
+2021-09-24 17:12:21:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:12:21: }
+2021-09-24 17:12:26: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:12:26:   errno: -4058,
+2021-09-24 17:12:26:   code: 'ENOENT',
+2021-09-24 17:12:26:   syscall: 'open',
+2021-09-24 17:12:26:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:12:26: }
+2021-09-24 17:12:31: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:12:31:   errno: -4058,
+2021-09-24 17:12:31:   code: 'ENOENT',
+2021-09-24 17:12:31:   syscall: 'open',
+2021-09-24 17:12:31:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:12:31: }
+2021-09-24 17:12:36: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:12:36:   errno: -4058,
+2021-09-24 17:12:36:   code: 'ENOENT',
+2021-09-24 17:12:36:   syscall: 'open',
+2021-09-24 17:12:36:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:12:36: }
+2021-09-24 17:12:41: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:12:41:   errno: -4058,
+2021-09-24 17:12:41:   code: 'ENOENT',
+2021-09-24 17:12:41:   syscall: 'open',
+2021-09-24 17:12:41:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:12:41: }
+2021-09-24 17:12:46: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:12:46:   errno: -4058,
+2021-09-24 17:12:46:   code: 'ENOENT',
+2021-09-24 17:12:46:   syscall: 'open',
+2021-09-24 17:12:46:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:12:46: }
+2021-09-24 17:12:51: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:12:51:   errno: -4058,
+2021-09-24 17:12:51:   code: 'ENOENT',
+2021-09-24 17:12:51:   syscall: 'open',
+2021-09-24 17:12:51:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:12:51: }
+2021-09-24 17:12:56: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:12:56:   errno: -4058,
+2021-09-24 17:12:56:   code: 'ENOENT',
+2021-09-24 17:12:56:   syscall: 'open',
+2021-09-24 17:12:56:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:12:56: }
+2021-09-24 17:13:01: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:13:01:   errno: -4058,
+2021-09-24 17:13:01:   code: 'ENOENT',
+2021-09-24 17:13:01:   syscall: 'open',
+2021-09-24 17:13:01:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:13:01: }
+2021-09-24 17:13:06: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:13:06:   errno: -4058,
+2021-09-24 17:13:06:   code: 'ENOENT',
+2021-09-24 17:13:06:   syscall: 'open',
+2021-09-24 17:13:06:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:13:06: }
+2021-09-24 17:13:11: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:13:11:   errno: -4058,
+2021-09-24 17:13:11:   code: 'ENOENT',
+2021-09-24 17:13:11:   syscall: 'open',
+2021-09-24 17:13:11:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:13:11: }
+2021-09-24 17:13:16: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:13:16:   errno: -4058,
+2021-09-24 17:13:16:   code: 'ENOENT',
+2021-09-24 17:13:16:   syscall: 'open',
+2021-09-24 17:13:16:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:13:16: }
+2021-09-24 17:13:21: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:13:21:   errno: -4058,
+2021-09-24 17:13:21:   code: 'ENOENT',
+2021-09-24 17:13:21:   syscall: 'open',
+2021-09-24 17:13:21:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:13:21: }
+2021-09-24 17:13:26: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:13:26:   errno: -4058,
+2021-09-24 17:13:26:   code: 'ENOENT',
+2021-09-24 17:13:26:   syscall: 'open',
+2021-09-24 17:13:26:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:13:26: }
+2021-09-24 17:13:31: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:13:31:   errno: -4058,
+2021-09-24 17:13:31:   code: 'ENOENT',
+2021-09-24 17:13:31:   syscall: 'open',
+2021-09-24 17:13:31:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:13:31: }
+2021-09-24 17:13:36: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:13:36:   errno: -4058,
+2021-09-24 17:13:36:   code: 'ENOENT',
+2021-09-24 17:13:36:   syscall: 'open',
+2021-09-24 17:13:36:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:13:36: }
+2021-09-24 17:13:41: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:13:41:   errno: -4058,
+2021-09-24 17:13:41:   code: 'ENOENT',
+2021-09-24 17:13:41:   syscall: 'open',
+2021-09-24 17:13:41:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:13:41: }
+2021-09-24 17:13:46: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:13:46:   errno: -4058,
+2021-09-24 17:13:46:   code: 'ENOENT',
+2021-09-24 17:13:46:   syscall: 'open',
+2021-09-24 17:13:46:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:13:46: }
+2021-09-24 17:13:51: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:13:51:   errno: -4058,
+2021-09-24 17:13:51:   code: 'ENOENT',
+2021-09-24 17:13:51:   syscall: 'open',
+2021-09-24 17:13:51:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:13:51: }
+2021-09-24 17:13:56: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:13:56:   errno: -4058,
+2021-09-24 17:13:56:   code: 'ENOENT',
+2021-09-24 17:13:56:   syscall: 'open',
+2021-09-24 17:13:56:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:13:56: }
+2021-09-24 17:14:01: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:14:01:   errno: -4058,
+2021-09-24 17:14:01:   code: 'ENOENT',
+2021-09-24 17:14:01:   syscall: 'open',
+2021-09-24 17:14:01:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:14:01: }
+2021-09-24 17:14:06: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:14:06:   errno: -4058,
+2021-09-24 17:14:06:   code: 'ENOENT',
+2021-09-24 17:14:06:   syscall: 'open',
+2021-09-24 17:14:06:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:14:06: }
+2021-09-24 17:14:11: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:14:11:   errno: -4058,
+2021-09-24 17:14:11:   code: 'ENOENT',
+2021-09-24 17:14:11:   syscall: 'open',
+2021-09-24 17:14:11:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:14:11: }
+2021-09-24 17:14:16: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:14:16:   errno: -4058,
+2021-09-24 17:14:16:   code: 'ENOENT',
+2021-09-24 17:14:16:   syscall: 'open',
+2021-09-24 17:14:16:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:14:16: }
+2021-09-24 17:14:21: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:14:21:   errno: -4058,
+2021-09-24 17:14:21:   code: 'ENOENT',
+2021-09-24 17:14:21:   syscall: 'open',
+2021-09-24 17:14:21:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:14:21: }
+2021-09-24 17:14:26: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:14:26:   errno: -4058,
+2021-09-24 17:14:26:   code: 'ENOENT',
+2021-09-24 17:14:26:   syscall: 'open',
+2021-09-24 17:14:26:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:14:26: }
+2021-09-24 17:14:31: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:14:31:   errno: -4058,
+2021-09-24 17:14:31:   code: 'ENOENT',
+2021-09-24 17:14:31:   syscall: 'open',
+2021-09-24 17:14:31:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:14:31: }
+2021-09-24 17:14:36: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:14:36:   errno: -4058,
+2021-09-24 17:14:36:   code: 'ENOENT',
+2021-09-24 17:14:36:   syscall: 'open',
+2021-09-24 17:14:36:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:14:36: }
+2021-09-24 17:14:41: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:14:41:   errno: -4058,
+2021-09-24 17:14:41:   code: 'ENOENT',
+2021-09-24 17:14:41:   syscall: 'open',
+2021-09-24 17:14:41:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:14:41: }
+2021-09-24 17:14:46: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:14:46:   errno: -4058,
+2021-09-24 17:14:46:   code: 'ENOENT',
+2021-09-24 17:14:46:   syscall: 'open',
+2021-09-24 17:14:46:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:14:46: }
+2021-09-24 17:14:51: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:14:51:   errno: -4058,
+2021-09-24 17:14:51:   code: 'ENOENT',
+2021-09-24 17:14:51:   syscall: 'open',
+2021-09-24 17:14:51:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:14:51: }
+2021-09-24 17:14:56: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:14:56:   errno: -4058,
+2021-09-24 17:14:56:   code: 'ENOENT',
+2021-09-24 17:14:56:   syscall: 'open',
+2021-09-24 17:14:56:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:14:56: }
+2021-09-24 17:15:01: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:15:01:   errno: -4058,
+2021-09-24 17:15:01:   code: 'ENOENT',
+2021-09-24 17:15:01:   syscall: 'open',
+2021-09-24 17:15:01:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:15:01: }
+2021-09-24 17:15:06: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:15:06:   errno: -4058,
+2021-09-24 17:15:06:   code: 'ENOENT',
+2021-09-24 17:15:06:   syscall: 'open',
+2021-09-24 17:15:06:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:15:06: }
+2021-09-24 17:15:11: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:15:11:   errno: -4058,
+2021-09-24 17:15:11:   code: 'ENOENT',
+2021-09-24 17:15:11:   syscall: 'open',
+2021-09-24 17:15:11:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:15:11: }
+2021-09-24 17:15:16: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:15:16:   errno: -4058,
+2021-09-24 17:15:16:   code: 'ENOENT',
+2021-09-24 17:15:16:   syscall: 'open',
+2021-09-24 17:15:16:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:15:16: }
+2021-09-24 17:15:21: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:15:21:   errno: -4058,
+2021-09-24 17:15:21:   code: 'ENOENT',
+2021-09-24 17:15:21:   syscall: 'open',
+2021-09-24 17:15:21:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:15:21: }
+2021-09-24 17:15:26: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:15:26:   errno: -4058,
+2021-09-24 17:15:26:   code: 'ENOENT',
+2021-09-24 17:15:26:   syscall: 'open',
+2021-09-24 17:15:26:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:15:26: }
+2021-09-24 17:15:31: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:15:31:   errno: -4058,
+2021-09-24 17:15:31:   code: 'ENOENT',
+2021-09-24 17:15:31:   syscall: 'open',
+2021-09-24 17:15:31:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:15:31: }
+2021-09-24 17:15:36: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:15:36:   errno: -4058,
+2021-09-24 17:15:36:   code: 'ENOENT',
+2021-09-24 17:15:36:   syscall: 'open',
+2021-09-24 17:15:36:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:15:36: }
+2021-09-24 17:15:41: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:15:41:   errno: -4058,
+2021-09-24 17:15:41:   code: 'ENOENT',
+2021-09-24 17:15:41:   syscall: 'open',
+2021-09-24 17:15:41:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:15:41: }
+2021-09-24 17:15:46: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:15:46:   errno: -4058,
+2021-09-24 17:15:46:   code: 'ENOENT',
+2021-09-24 17:15:46:   syscall: 'open',
+2021-09-24 17:15:46:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:15:46: }
+2021-09-24 17:15:51: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:15:51:   errno: -4058,
+2021-09-24 17:15:51:   code: 'ENOENT',
+2021-09-24 17:15:51:   syscall: 'open',
+2021-09-24 17:15:51:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:15:51: }
+2021-09-24 17:15:56: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:15:56:   errno: -4058,
+2021-09-24 17:15:56:   code: 'ENOENT',
+2021-09-24 17:15:56:   syscall: 'open',
+2021-09-24 17:15:56:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:15:56: }
+2021-09-24 17:16:01: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:16:01:   errno: -4058,
+2021-09-24 17:16:01:   code: 'ENOENT',
+2021-09-24 17:16:01:   syscall: 'open',
+2021-09-24 17:16:01:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:16:01: }
+2021-09-24 17:16:06: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:16:06:   errno: -4058,
+2021-09-24 17:16:06:   code: 'ENOENT',
+2021-09-24 17:16:06:   syscall: 'open',
+2021-09-24 17:16:06:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:16:06: }
+2021-09-24 17:16:11: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:16:11:   errno: -4058,
+2021-09-24 17:16:11:   code: 'ENOENT',
+2021-09-24 17:16:11:   syscall: 'open',
+2021-09-24 17:16:11:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:16:11: }
+2021-09-24 17:16:16: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:16:16:   errno: -4058,
+2021-09-24 17:16:16:   code: 'ENOENT',
+2021-09-24 17:16:16:   syscall: 'open',
+2021-09-24 17:16:16:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:16:16: }
+2021-09-24 17:16:21: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:16:21:   errno: -4058,
+2021-09-24 17:16:21:   code: 'ENOENT',
+2021-09-24 17:16:21:   syscall: 'open',
+2021-09-24 17:16:21:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:16:21: }
+2021-09-24 17:16:26: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:16:26:   errno: -4058,
+2021-09-24 17:16:26:   code: 'ENOENT',
+2021-09-24 17:16:26:   syscall: 'open',
+2021-09-24 17:16:26:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:16:26: }
+2021-09-24 17:16:31: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:16:31:   errno: -4058,
+2021-09-24 17:16:31:   code: 'ENOENT',
+2021-09-24 17:16:31:   syscall: 'open',
+2021-09-24 17:16:31:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:16:31: }
+2021-09-24 17:16:36: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:16:36:   errno: -4058,
+2021-09-24 17:16:36:   code: 'ENOENT',
+2021-09-24 17:16:36:   syscall: 'open',
+2021-09-24 17:16:36:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:16:36: }
+2021-09-24 17:16:41: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:16:41:   errno: -4058,
+2021-09-24 17:16:41:   code: 'ENOENT',
+2021-09-24 17:16:41:   syscall: 'open',
+2021-09-24 17:16:41:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:16:41: }
+2021-09-24 17:16:46: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:16:46:   errno: -4058,
+2021-09-24 17:16:46:   code: 'ENOENT',
+2021-09-24 17:16:46:   syscall: 'open',
+2021-09-24 17:16:46:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:16:46: }
+2021-09-24 17:16:51: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:16:51:   errno: -4058,
+2021-09-24 17:16:51:   code: 'ENOENT',
+2021-09-24 17:16:51:   syscall: 'open',
+2021-09-24 17:16:51:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:16:51: }
+2021-09-24 17:16:56: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:16:56:   errno: -4058,
+2021-09-24 17:16:56:   code: 'ENOENT',
+2021-09-24 17:16:56:   syscall: 'open',
+2021-09-24 17:16:56:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:16:56: }
+2021-09-24 17:17:01: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:17:01:   errno: -4058,
+2021-09-24 17:17:01:   code: 'ENOENT',
+2021-09-24 17:17:01:   syscall: 'open',
+2021-09-24 17:17:01:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:17:01: }
+2021-09-24 17:17:06: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:17:06:   errno: -4058,
+2021-09-24 17:17:06:   code: 'ENOENT',
+2021-09-24 17:17:06:   syscall: 'open',
+2021-09-24 17:17:06:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:17:06: }
+2021-09-24 17:17:11: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:17:11:   errno: -4058,
+2021-09-24 17:17:11:   code: 'ENOENT',
+2021-09-24 17:17:11:   syscall: 'open',
+2021-09-24 17:17:11:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:17:11: }
+2021-09-24 17:17:16: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:17:16:   errno: -4058,
+2021-09-24 17:17:16:   code: 'ENOENT',
+2021-09-24 17:17:16:   syscall: 'open',
+2021-09-24 17:17:16:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:17:16: }
+2021-09-24 17:17:21: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:17:21:   errno: -4058,
+2021-09-24 17:17:21:   code: 'ENOENT',
+2021-09-24 17:17:21:   syscall: 'open',
+2021-09-24 17:17:21:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:17:21: }
+2021-09-24 17:17:26: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:17:26:   errno: -4058,
+2021-09-24 17:17:26:   code: 'ENOENT',
+2021-09-24 17:17:26:   syscall: 'open',
+2021-09-24 17:17:26:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:17:26: }
+2021-09-24 17:17:31: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:17:31:   errno: -4058,
+2021-09-24 17:17:31:   code: 'ENOENT',
+2021-09-24 17:17:31:   syscall: 'open',
+2021-09-24 17:17:31:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:17:31: }
+2021-09-24 17:17:36: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:17:36:   errno: -4058,
+2021-09-24 17:17:36:   code: 'ENOENT',
+2021-09-24 17:17:36:   syscall: 'open',
+2021-09-24 17:17:36:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:17:36: }
+2021-09-24 17:17:41: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:17:41:   errno: -4058,
+2021-09-24 17:17:41:   code: 'ENOENT',
+2021-09-24 17:17:41:   syscall: 'open',
+2021-09-24 17:17:41:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:17:41: }
+2021-09-24 17:17:46: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:17:46:   errno: -4058,
+2021-09-24 17:17:46:   code: 'ENOENT',
+2021-09-24 17:17:46:   syscall: 'open',
+2021-09-24 17:17:46:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:17:46: }
+2021-09-24 17:17:51: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:17:51:   errno: -4058,
+2021-09-24 17:17:51:   code: 'ENOENT',
+2021-09-24 17:17:51:   syscall: 'open',
+2021-09-24 17:17:51:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:17:51: }
+2021-09-24 17:17:56: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:17:56:   errno: -4058,
+2021-09-24 17:17:56:   code: 'ENOENT',
+2021-09-24 17:17:56:   syscall: 'open',
+2021-09-24 17:17:56:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:17:56: }
+2021-09-24 17:18:01: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:18:01:   errno: -4058,
+2021-09-24 17:18:01:   code: 'ENOENT',
+2021-09-24 17:18:01:   syscall: 'open',
+2021-09-24 17:18:01:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:18:01: }
+2021-09-24 17:18:06: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:18:06:   errno: -4058,
+2021-09-24 17:18:06:   code: 'ENOENT',
+2021-09-24 17:18:06:   syscall: 'open',
+2021-09-24 17:18:06:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:18:06: }
+2021-09-24 17:18:11: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:18:11:   errno: -4058,
+2021-09-24 17:18:11:   code: 'ENOENT',
+2021-09-24 17:18:11:   syscall: 'open',
+2021-09-24 17:18:11:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:18:11: }
+2021-09-24 17:18:16: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:18:16:   errno: -4058,
+2021-09-24 17:18:16:   code: 'ENOENT',
+2021-09-24 17:18:16:   syscall: 'open',
+2021-09-24 17:18:16:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:18:16: }
+2021-09-24 17:18:21: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:18:21:   errno: -4058,
+2021-09-24 17:18:21:   code: 'ENOENT',
+2021-09-24 17:18:21:   syscall: 'open',
+2021-09-24 17:18:21:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:18:21: }
+2021-09-24 17:18:26: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:18:26:   errno: -4058,
+2021-09-24 17:18:26:   code: 'ENOENT',
+2021-09-24 17:18:26:   syscall: 'open',
+2021-09-24 17:18:26:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:18:26: }
+2021-09-24 17:18:31: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:18:31:   errno: -4058,
+2021-09-24 17:18:31:   code: 'ENOENT',
+2021-09-24 17:18:31:   syscall: 'open',
+2021-09-24 17:18:31:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:18:31: }
+2021-09-24 17:18:36: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:18:36:   errno: -4058,
+2021-09-24 17:18:36:   code: 'ENOENT',
+2021-09-24 17:18:36:   syscall: 'open',
+2021-09-24 17:18:36:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:18:36: }
+2021-09-24 17:18:41: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:18:41:   errno: -4058,
+2021-09-24 17:18:41:   code: 'ENOENT',
+2021-09-24 17:18:41:   syscall: 'open',
+2021-09-24 17:18:41:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:18:41: }
+2021-09-24 17:18:46: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:18:46:   errno: -4058,
+2021-09-24 17:18:46:   code: 'ENOENT',
+2021-09-24 17:18:46:   syscall: 'open',
+2021-09-24 17:18:46:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:18:46: }
+2021-09-24 17:18:51: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:18:51:   errno: -4058,
+2021-09-24 17:18:51:   code: 'ENOENT',
+2021-09-24 17:18:51:   syscall: 'open',
+2021-09-24 17:18:51:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:18:51: }
+2021-09-24 17:18:56: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:18:56:   errno: -4058,
+2021-09-24 17:18:56:   code: 'ENOENT',
+2021-09-24 17:18:56:   syscall: 'open',
+2021-09-24 17:18:56:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:18:56: }
+2021-09-24 17:19:01: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:19:01:   errno: -4058,
+2021-09-24 17:19:01:   code: 'ENOENT',
+2021-09-24 17:19:01:   syscall: 'open',
+2021-09-24 17:19:01:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:19:01: }
+2021-09-24 17:19:06: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:19:06:   errno: -4058,
+2021-09-24 17:19:06:   code: 'ENOENT',
+2021-09-24 17:19:06:   syscall: 'open',
+2021-09-24 17:19:06:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:19:06: }
+2021-09-24 17:19:11: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:19:11:   errno: -4058,
+2021-09-24 17:19:11:   code: 'ENOENT',
+2021-09-24 17:19:11:   syscall: 'open',
+2021-09-24 17:19:11:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:19:11: }
+2021-09-24 17:19:16: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:19:16:   errno: -4058,
+2021-09-24 17:19:16:   code: 'ENOENT',
+2021-09-24 17:19:16:   syscall: 'open',
+2021-09-24 17:19:16:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:19:16: }
+2021-09-24 17:19:21: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:19:21:   errno: -4058,
+2021-09-24 17:19:21:   code: 'ENOENT',
+2021-09-24 17:19:21:   syscall: 'open',
+2021-09-24 17:19:21:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:19:21: }
+2021-09-24 17:19:26: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:19:26:   errno: -4058,
+2021-09-24 17:19:26:   code: 'ENOENT',
+2021-09-24 17:19:26:   syscall: 'open',
+2021-09-24 17:19:26:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:19:26: }
+2021-09-24 17:19:28: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:28: 	const aa = 2;
+2021-09-24 17:19:28: 	      ^
+2021-09-24 17:19:28: 
+2021-09-24 17:19:28: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:28:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:28:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:28:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:28:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:28:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:28:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:28:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:28:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:28:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:28:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:28: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:28: 	const aa = 2;
+2021-09-24 17:19:28: 	      ^
+2021-09-24 17:19:28: 
+2021-09-24 17:19:28: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:28:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:28:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:28:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:28:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:28:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:28:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:28:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:28:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:28:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:28:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:29: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:29: 	const aa = 2;
+2021-09-24 17:19:29: 	      ^
+2021-09-24 17:19:29: 
+2021-09-24 17:19:29: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:29:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:29:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:29:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:29:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:29:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:29:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:29:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:29:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:29:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:29:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:29: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:29: 	const aa = 2;
+2021-09-24 17:19:29: 	      ^
+2021-09-24 17:19:29: 
+2021-09-24 17:19:29: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:29:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:29:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:29:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:29:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:29:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:29:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:29:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:29:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:29:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:29:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:29: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:29: 	const aa = 2;
+2021-09-24 17:19:29: 	      ^
+2021-09-24 17:19:29: 
+2021-09-24 17:19:29: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:29:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:29:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:29:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:29:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:29:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:29:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:29:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:29:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:29:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:29:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:29: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:29: 	const aa = 2;
+2021-09-24 17:19:29: 	      ^
+2021-09-24 17:19:29: 
+2021-09-24 17:19:29: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:29:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:29:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:29:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:29:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:29:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:29:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:29:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:29:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:29:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:29:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:30: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:30: 	const aa = 2;
+2021-09-24 17:19:30: 	      ^
+2021-09-24 17:19:30: 
+2021-09-24 17:19:30: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:30:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:30:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:30:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:30:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:30:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:30:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:30:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:30:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:30:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:30:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:30: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:30: 	const aa = 2;
+2021-09-24 17:19:30: 	      ^
+2021-09-24 17:19:30: 
+2021-09-24 17:19:30: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:30:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:30:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:30:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:30:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:30:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:30:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:30:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:30:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:30:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:30:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:30: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:30: 	const aa = 2;
+2021-09-24 17:19:30: 	      ^
+2021-09-24 17:19:30: 
+2021-09-24 17:19:30: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:30:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:30:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:30:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:30:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:30:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:30:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:30:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:30:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:30:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:30:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:31: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:31: 	const aa = 2;
+2021-09-24 17:19:31: 	      ^
+2021-09-24 17:19:31: 
+2021-09-24 17:19:31: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:31:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:31:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:31:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:31:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:31:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:31:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:31:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:31:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:31:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:31:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:31: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:31: 	const aa = 2;
+2021-09-24 17:19:31: 	      ^
+2021-09-24 17:19:31: 
+2021-09-24 17:19:31: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:31:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:31:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:31:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:31:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:31:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:31:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:31:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:31:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:31:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:31:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:32: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:32: 	const aa = 2;
+2021-09-24 17:19:32: 	      ^
+2021-09-24 17:19:32: 
+2021-09-24 17:19:32: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:32:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:32:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:32:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:32:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:32:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:32:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:32:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:32:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:32:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:32:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:32: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:32: 	const aa = 2;
+2021-09-24 17:19:32: 	      ^
+2021-09-24 17:19:32: 
+2021-09-24 17:19:32: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:32:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:32:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:32:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:32:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:32:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:32:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:32:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:32:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:32:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:32:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:32: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:32: 	const aa = 2;
+2021-09-24 17:19:32: 	      ^
+2021-09-24 17:19:32: 
+2021-09-24 17:19:32: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:32:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:32:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:32:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:32:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:32:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:32:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:32:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:32:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:32:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:32:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:32: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:32: 	const aa = 2;
+2021-09-24 17:19:32: 	      ^
+2021-09-24 17:19:32: 
+2021-09-24 17:19:32: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:32:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:32:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:32:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:32:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:32:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:32:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:32:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:32:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:32:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:32:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:19:33: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:19:33: 	const aa = 2;
+2021-09-24 17:19:33: 	      ^
+2021-09-24 17:19:33: 
+2021-09-24 17:19:33: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:19:33:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:19:33:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:19:33:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:19:33:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:19:33:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:19:33:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:19:33:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:19:33:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:19:33:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:19:33:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:41: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:41: 	const aa = 2;
+2021-09-24 17:20:41: 	      ^
+2021-09-24 17:20:41: 
+2021-09-24 17:20:41: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:41:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:41:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:41:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:41:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:41:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:41:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:41:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:41:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:41:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:41:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:41: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:41: 	const aa = 2;
+2021-09-24 17:20:41: 	      ^
+2021-09-24 17:20:41: 
+2021-09-24 17:20:41: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:41:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:41:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:41:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:41:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:41:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:41:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:41:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:41:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:41:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:41:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:41: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:41: 	const aa = 2;
+2021-09-24 17:20:41: 	      ^
+2021-09-24 17:20:41: 
+2021-09-24 17:20:41: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:41:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:41:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:41:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:41:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:41:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:41:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:41:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:41:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:41:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:41:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:42: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:42: 	const aa = 2;
+2021-09-24 17:20:42: 	      ^
+2021-09-24 17:20:42: 
+2021-09-24 17:20:42: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:42:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:42:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:42:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:42:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:42:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:42:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:42:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:42:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:42:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:42:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:42: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:42: 	const aa = 2;
+2021-09-24 17:20:42: 	      ^
+2021-09-24 17:20:42: 
+2021-09-24 17:20:42: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:42:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:42:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:42:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:42:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:42:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:42:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:42:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:42:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:42:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:42:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:42: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:42: 	const aa = 2;
+2021-09-24 17:20:42: 	      ^
+2021-09-24 17:20:42: 
+2021-09-24 17:20:42: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:42:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:42:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:42:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:42:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:42:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:42:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:42:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:42:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:42:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:42:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:42: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:42: 	const aa = 2;
+2021-09-24 17:20:42: 	      ^
+2021-09-24 17:20:42: 
+2021-09-24 17:20:42: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:42:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:42:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:42:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:42:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:42:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:42:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:42:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:42:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:42:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:42:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:43: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:43: 	const aa = 2;
+2021-09-24 17:20:43: 	      ^
+2021-09-24 17:20:43: 
+2021-09-24 17:20:43: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:43:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:43:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:43:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:43:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:43:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:43:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:43:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:43:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:43:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:43:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:43: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:43: 	const aa = 2;
+2021-09-24 17:20:43: 	      ^
+2021-09-24 17:20:43: 
+2021-09-24 17:20:43: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:43:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:43:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:43:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:43:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:43:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:43:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:43:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:43:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:43:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:43:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:43: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:43: 	const aa = 2;
+2021-09-24 17:20:43: 	      ^
+2021-09-24 17:20:43: 
+2021-09-24 17:20:43: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:43:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:43:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:43:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:43:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:43:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:43:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:43:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:43:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:43:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:43:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:44: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:44: 	const aa = 2;
+2021-09-24 17:20:44: 	      ^
+2021-09-24 17:20:44: 
+2021-09-24 17:20:44: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:44:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:44:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:44:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:44:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:44:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:44:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:44:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:44:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:44:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:44:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:44: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:44: 	const aa = 2;
+2021-09-24 17:20:44: 	      ^
+2021-09-24 17:20:44: 
+2021-09-24 17:20:44: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:44:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:44:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:44:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:44:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:44:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:44:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:44:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:44:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:44:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:44:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:44: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:44: 	const aa = 2;
+2021-09-24 17:20:44: 	      ^
+2021-09-24 17:20:44: 
+2021-09-24 17:20:44: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:44:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:44:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:44:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:44:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:44:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:44:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:44:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:44:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:44:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:44:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:45: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:45: 	const aa = 2;
+2021-09-24 17:20:45: 	      ^
+2021-09-24 17:20:45: 
+2021-09-24 17:20:45: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:45:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:45:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:45:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:45:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:45:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:45:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:45:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:45:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:45:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:45:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:45: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:45: 	const aa = 2;
+2021-09-24 17:20:45: 	      ^
+2021-09-24 17:20:45: 
+2021-09-24 17:20:45: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:45:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:45:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:45:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:45:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:45:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:45:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:45:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:45:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:45:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:45:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:20:45: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:20:45: 	const aa = 2;
+2021-09-24 17:20:45: 	      ^
+2021-09-24 17:20:45: 
+2021-09-24 17:20:45: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:20:45:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:20:45:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:20:45:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:20:45:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:20:45:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:20:45:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:20:45:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:20:45:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:20:45:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:20:45:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:21:07: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:21:07:   errno: -4058,
+2021-09-24 17:21:07:   code: 'ENOENT',
+2021-09-24 17:21:07:   syscall: 'open',
+2021-09-24 17:21:07:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:21:07: }
+2021-09-24 17:21:12: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:21:12:   errno: -4058,
+2021-09-24 17:21:12:   code: 'ENOENT',
+2021-09-24 17:21:12:   syscall: 'open',
+2021-09-24 17:21:12:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:21:12: }
+2021-09-24 17:21:17: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:21:17:   errno: -4058,
+2021-09-24 17:21:17:   code: 'ENOENT',
+2021-09-24 17:21:17:   syscall: 'open',
+2021-09-24 17:21:17:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:21:17: }
+2021-09-24 17:21:22: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:21:22:   errno: -4058,
+2021-09-24 17:21:22:   code: 'ENOENT',
+2021-09-24 17:21:22:   syscall: 'open',
+2021-09-24 17:21:22:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:21:22: }
+2021-09-24 17:21:27: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:21:27:   errno: -4058,
+2021-09-24 17:21:27:   code: 'ENOENT',
+2021-09-24 17:21:27:   syscall: 'open',
+2021-09-24 17:21:27:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:21:27: }
+2021-09-24 17:21:32: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:21:32:   errno: -4058,
+2021-09-24 17:21:32:   code: 'ENOENT',
+2021-09-24 17:21:32:   syscall: 'open',
+2021-09-24 17:21:32:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:21:32: }
+2021-09-24 17:21:37: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:21:37:   errno: -4058,
+2021-09-24 17:21:37:   code: 'ENOENT',
+2021-09-24 17:21:37:   syscall: 'open',
+2021-09-24 17:21:37:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:21:37: }
+2021-09-24 17:21:42: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:21:42:   errno: -4058,
+2021-09-24 17:21:42:   code: 'ENOENT',
+2021-09-24 17:21:42:   syscall: 'open',
+2021-09-24 17:21:42:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:21:42: }
+2021-09-24 17:22:07: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:07: 	const aa = 2;
+2021-09-24 17:22:07: 	      ^
+2021-09-24 17:22:07: 
+2021-09-24 17:22:07: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:07:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:07:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:07:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:07:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:07:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:07:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:07:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:07:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:07:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:07:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:08: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:08: 	const aa = 2;
+2021-09-24 17:22:08: 	      ^
+2021-09-24 17:22:08: 
+2021-09-24 17:22:08: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:08:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:08:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:08:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:08:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:08:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:08:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:08:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:08:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:08:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:08:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:08: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:08: 	const aa = 2;
+2021-09-24 17:22:08: 	      ^
+2021-09-24 17:22:08: 
+2021-09-24 17:22:08: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:08:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:08:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:08:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:08:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:08:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:08:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:08:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:08:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:08:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:08:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:08: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:08: 	const aa = 2;
+2021-09-24 17:22:08: 	      ^
+2021-09-24 17:22:08: 
+2021-09-24 17:22:08: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:08:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:08:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:08:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:08:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:08:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:08:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:08:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:08:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:08:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:08:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:09: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:09: 	const aa = 2;
+2021-09-24 17:22:09: 	      ^
+2021-09-24 17:22:09: 
+2021-09-24 17:22:09: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:09:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:09:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:09:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:09:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:09:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:09:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:09:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:09:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:09:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:09:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:09: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:09: 	const aa = 2;
+2021-09-24 17:22:09: 	      ^
+2021-09-24 17:22:09: 
+2021-09-24 17:22:09: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:09:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:09:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:09:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:09:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:09:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:09:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:09:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:09:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:09:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:09:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:09: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:09: 	const aa = 2;
+2021-09-24 17:22:09: 	      ^
+2021-09-24 17:22:09: 
+2021-09-24 17:22:09: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:09:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:09:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:09:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:09:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:09:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:09:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:09:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:09:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:09:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:09:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:09: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:09: 	const aa = 2;
+2021-09-24 17:22:09: 	      ^
+2021-09-24 17:22:09: 
+2021-09-24 17:22:09: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:09:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:09:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:09:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:09:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:09:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:09:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:09:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:09:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:09:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:09:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:10: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:10: 	const aa = 2;
+2021-09-24 17:22:10: 	      ^
+2021-09-24 17:22:10: 
+2021-09-24 17:22:10: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:10:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:10:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:10:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:10:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:10:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:10:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:10:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:10:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:10:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:10:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:10: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:10: 	const aa = 2;
+2021-09-24 17:22:10: 	      ^
+2021-09-24 17:22:10: 
+2021-09-24 17:22:10: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:10:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:10:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:10:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:10:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:10:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:10:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:10:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:10:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:10:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:10:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:10: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:10: 	const aa = 2;
+2021-09-24 17:22:10: 	      ^
+2021-09-24 17:22:10: 
+2021-09-24 17:22:10: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:10:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:10:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:10:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:10:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:10:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:10:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:10:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:10:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:10:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:10:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:11: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:11: 	const aa = 2;
+2021-09-24 17:22:11: 	      ^
+2021-09-24 17:22:11: 
+2021-09-24 17:22:11: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:11:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:11:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:11:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:11:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:11:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:11:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:11:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:11:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:11:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:11:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:11: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:11: 	const aa = 2;
+2021-09-24 17:22:11: 	      ^
+2021-09-24 17:22:11: 
+2021-09-24 17:22:11: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:11:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:11:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:11:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:11:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:11:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:11:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:11:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:11:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:11:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:11:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:11: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:11: 	const aa = 2;
+2021-09-24 17:22:11: 	      ^
+2021-09-24 17:22:11: 
+2021-09-24 17:22:11: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:11:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:11:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:11:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:11:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:11:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:11:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:11:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:11:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:11:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:11:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:12: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:12: 	const aa = 2;
+2021-09-24 17:22:12: 	      ^
+2021-09-24 17:22:12: 
+2021-09-24 17:22:12: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:12:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:12:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:12:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:12:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:12:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:12:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:12:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:12:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:12:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:12:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:12: C:\Users\user1\Documents\playground\mailer\src\route\mail.js:22
+2021-09-24 17:22:12: 	const aa = 2;
+2021-09-24 17:22:12: 	      ^
+2021-09-24 17:22:12: 
+2021-09-24 17:22:12: SyntaxError: Identifier 'aa' has already been declared
+2021-09-24 17:22:12:     at wrapSafe (internal/modules/cjs/loader.js:979:16)
+2021-09-24 17:22:12:     at Module._compile (internal/modules/cjs/loader.js:1027:27)
+2021-09-24 17:22:12:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2021-09-24 17:22:12:     at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-09-24 17:22:12:     at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-09-24 17:22:12:     at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-09-24 17:22:12:     at Module.Hook._require.Module.require (C:\Users\user.DESKTOP-87QH003\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-09-24 17:22:12:     at require (internal/modules/cjs/helpers.js:88:18)
+2021-09-24 17:22:12:     at Object.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:5:14)
+2021-09-24 17:22:12:     at Module._compile (internal/modules/cjs/loader.js:1063:30)
+2021-09-24 17:22:41: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:22:41:   errno: -4058,
+2021-09-24 17:22:41:   code: 'ENOENT',
+2021-09-24 17:22:41:   syscall: 'open',
+2021-09-24 17:22:41:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:22:41: }
+2021-09-24 17:22:46: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:22:46:   errno: -4058,
+2021-09-24 17:22:46:   code: 'ENOENT',
+2021-09-24 17:22:46:   syscall: 'open',
+2021-09-24 17:22:46:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:22:46: }
+2021-09-24 17:22:51: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:22:51:   errno: -4058,
+2021-09-24 17:22:51:   code: 'ENOENT',
+2021-09-24 17:22:51:   syscall: 'open',
+2021-09-24 17:22:51:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:22:51: }
+2021-09-24 17:22:56: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:22:56:   errno: -4058,
+2021-09-24 17:22:56:   code: 'ENOENT',
+2021-09-24 17:22:56:   syscall: 'open',
+2021-09-24 17:22:56:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:22:56: }
+2021-09-24 17:23:01: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:23:01:   errno: -4058,
+2021-09-24 17:23:01:   code: 'ENOENT',
+2021-09-24 17:23:01:   syscall: 'open',
+2021-09-24 17:23:01:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:23:01: }
+2021-09-24 17:23:06: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:23:06:   errno: -4058,
+2021-09-24 17:23:06:   code: 'ENOENT',
+2021-09-24 17:23:06:   syscall: 'open',
+2021-09-24 17:23:06:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:23:06: }
+2021-09-24 17:23:11: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:23:11:   errno: -4058,
+2021-09-24 17:23:11:   code: 'ENOENT',
+2021-09-24 17:23:11:   syscall: 'open',
+2021-09-24 17:23:11:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:23:11: }
+2021-09-24 17:23:16: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:23:16:   errno: -4058,
+2021-09-24 17:23:16:   code: 'ENOENT',
+2021-09-24 17:23:16:   syscall: 'open',
+2021-09-24 17:23:16:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:23:16: }
+2021-09-24 17:23:21: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:23:21:   errno: -4058,
+2021-09-24 17:23:21:   code: 'ENOENT',
+2021-09-24 17:23:21:   syscall: 'open',
+2021-09-24 17:23:21:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:23:21: }
+2021-09-24 17:23:26: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:23:26:   errno: -4058,
+2021-09-24 17:23:26:   code: 'ENOENT',
+2021-09-24 17:23:26:   syscall: 'open',
+2021-09-24 17:23:26:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:23:26: }
+2021-09-24 17:23:31: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:23:31:   errno: -4058,
+2021-09-24 17:23:31:   code: 'ENOENT',
+2021-09-24 17:23:31:   syscall: 'open',
+2021-09-24 17:23:31:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:23:31: }
+2021-09-24 17:23:36: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:23:36:   errno: -4058,
+2021-09-24 17:23:36:   code: 'ENOENT',
+2021-09-24 17:23:36:   syscall: 'open',
+2021-09-24 17:23:36:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:23:36: }
+2021-09-24 17:23:41: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:23:41:   errno: -4058,
+2021-09-24 17:23:41:   code: 'ENOENT',
+2021-09-24 17:23:41:   syscall: 'open',
+2021-09-24 17:23:41:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:23:41: }
+2021-09-24 17:23:46: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:23:46:   errno: -4058,
+2021-09-24 17:23:46:   code: 'ENOENT',
+2021-09-24 17:23:46:   syscall: 'open',
+2021-09-24 17:23:46:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:23:46: }
+2021-09-24 17:23:51: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:23:51:   errno: -4058,
+2021-09-24 17:23:51:   code: 'ENOENT',
+2021-09-24 17:23:51:   syscall: 'open',
+2021-09-24 17:23:51:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:23:51: }
+2021-09-24 17:23:56: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:23:56:   errno: -4058,
+2021-09-24 17:23:56:   code: 'ENOENT',
+2021-09-24 17:23:56:   syscall: 'open',
+2021-09-24 17:23:56:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:23:56: }
+2021-09-24 17:24:01: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:24:01:   errno: -4058,
+2021-09-24 17:24:01:   code: 'ENOENT',
+2021-09-24 17:24:01:   syscall: 'open',
+2021-09-24 17:24:01:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:24:01: }
+2021-09-24 17:24:06: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:24:06:   errno: -4058,
+2021-09-24 17:24:06:   code: 'ENOENT',
+2021-09-24 17:24:06:   syscall: 'open',
+2021-09-24 17:24:06:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:24:06: }
+2021-09-24 17:24:11: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:24:11:   errno: -4058,
+2021-09-24 17:24:11:   code: 'ENOENT',
+2021-09-24 17:24:11:   syscall: 'open',
+2021-09-24 17:24:11:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:24:11: }
+2021-09-24 17:24:16: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:24:16:   errno: -4058,
+2021-09-24 17:24:16:   code: 'ENOENT',
+2021-09-24 17:24:16:   syscall: 'open',
+2021-09-24 17:24:16:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:24:16: }
+2021-09-24 17:24:21: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:24:21:   errno: -4058,
+2021-09-24 17:24:21:   code: 'ENOENT',
+2021-09-24 17:24:21:   syscall: 'open',
+2021-09-24 17:24:21:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:24:21: }
+2021-09-24 17:24:26: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:24:26:   errno: -4058,
+2021-09-24 17:24:26:   code: 'ENOENT',
+2021-09-24 17:24:26:   syscall: 'open',
+2021-09-24 17:24:26:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:24:26: }
+2021-09-24 17:24:31: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:24:31:   errno: -4058,
+2021-09-24 17:24:31:   code: 'ENOENT',
+2021-09-24 17:24:31:   syscall: 'open',
+2021-09-24 17:24:31:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:24:31: }
+2021-09-24 17:24:36: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:24:36:   errno: -4058,
+2021-09-24 17:24:36:   code: 'ENOENT',
+2021-09-24 17:24:36:   syscall: 'open',
+2021-09-24 17:24:36:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:24:36: }
+2021-09-24 17:24:41: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:24:41:   errno: -4058,
+2021-09-24 17:24:41:   code: 'ENOENT',
+2021-09-24 17:24:41:   syscall: 'open',
+2021-09-24 17:24:41:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:24:41: }
+2021-09-24 17:24:46: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:24:46:   errno: -4058,
+2021-09-24 17:24:46:   code: 'ENOENT',
+2021-09-24 17:24:46:   syscall: 'open',
+2021-09-24 17:24:46:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:24:46: }
+2021-09-24 17:24:51: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:24:51:   errno: -4058,
+2021-09-24 17:24:51:   code: 'ENOENT',
+2021-09-24 17:24:51:   syscall: 'open',
+2021-09-24 17:24:51:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:24:51: }
+2021-09-24 17:24:56: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:24:56:   errno: -4058,
+2021-09-24 17:24:56:   code: 'ENOENT',
+2021-09-24 17:24:56:   syscall: 'open',
+2021-09-24 17:24:56:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:24:56: }
+2021-09-24 17:24:58: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:24:58:   errno: -4058,
+2021-09-24 17:24:58:   code: 'ENOENT',
+2021-09-24 17:24:58:   syscall: 'open',
+2021-09-24 17:24:58:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:24:58: }
+2021-09-24 17:25:01: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:25:01:   errno: -4058,
+2021-09-24 17:25:01:   code: 'ENOENT',
+2021-09-24 17:25:01:   syscall: 'open',
+2021-09-24 17:25:01:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:25:01: }
+2021-09-24 17:25:06: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:25:06:   errno: -4058,
+2021-09-24 17:25:06:   code: 'ENOENT',
+2021-09-24 17:25:06:   syscall: 'open',
+2021-09-24 17:25:06:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:25:06: }
+2021-09-24 17:25:11: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:25:11:   errno: -4058,
+2021-09-24 17:25:11:   code: 'ENOENT',
+2021-09-24 17:25:11:   syscall: 'open',
+2021-09-24 17:25:11:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:25:11: }
+2021-09-24 17:25:16: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:25:16:   errno: -4058,
+2021-09-24 17:25:16:   code: 'ENOENT',
+2021-09-24 17:25:16:   syscall: 'open',
+2021-09-24 17:25:16:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:25:16: }
+2021-09-24 17:25:21: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:25:21:   errno: -4058,
+2021-09-24 17:25:21:   code: 'ENOENT',
+2021-09-24 17:25:21:   syscall: 'open',
+2021-09-24 17:25:21:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:25:21: }
+2021-09-24 17:25:26: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:25:26:   errno: -4058,
+2021-09-24 17:25:26:   code: 'ENOENT',
+2021-09-24 17:25:26:   syscall: 'open',
+2021-09-24 17:25:26:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:25:26: }
+2021-09-24 17:25:31: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:25:31:   errno: -4058,
+2021-09-24 17:25:31:   code: 'ENOENT',
+2021-09-24 17:25:31:   syscall: 'open',
+2021-09-24 17:25:31:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:25:31: }
+2021-09-24 17:25:33: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:25:33:   errno: -4058,
+2021-09-24 17:25:33:   code: 'ENOENT',
+2021-09-24 17:25:33:   syscall: 'open',
+2021-09-24 17:25:33:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:25:33: }
+2021-09-24 17:25:38: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:25:38:   errno: -4058,
+2021-09-24 17:25:38:   code: 'ENOENT',
+2021-09-24 17:25:38:   syscall: 'open',
+2021-09-24 17:25:38:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:25:38: }
+2021-09-24 17:25:43: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:25:43:   errno: -4058,
+2021-09-24 17:25:43:   code: 'ENOENT',
+2021-09-24 17:25:43:   syscall: 'open',
+2021-09-24 17:25:43:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:25:43: }
+2021-09-24 17:25:48: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:25:48:   errno: -4058,
+2021-09-24 17:25:48:   code: 'ENOENT',
+2021-09-24 17:25:48:   syscall: 'open',
+2021-09-24 17:25:48:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:25:48: }
+2021-09-24 17:25:53: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:25:53:   errno: -4058,
+2021-09-24 17:25:53:   code: 'ENOENT',
+2021-09-24 17:25:53:   syscall: 'open',
+2021-09-24 17:25:53:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:25:53: }
+2021-09-24 17:25:58: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:25:58:   errno: -4058,
+2021-09-24 17:25:58:   code: 'ENOENT',
+2021-09-24 17:25:58:   syscall: 'open',
+2021-09-24 17:25:58:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:25:58: }
+2021-09-24 17:26:03: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:26:03:   errno: -4058,
+2021-09-24 17:26:03:   code: 'ENOENT',
+2021-09-24 17:26:03:   syscall: 'open',
+2021-09-24 17:26:03:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:26:03: }
+2021-09-24 17:26:06: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\static\queue.json'] {
+2021-09-24 17:26:06:   errno: -4058,
+2021-09-24 17:26:06:   code: 'ENOENT',
+2021-09-24 17:26:06:   syscall: 'open',
+2021-09-24 17:26:06:   path: 'C:\\Users\\user1\\Documents\\playground\\static\\queue.json'
+2021-09-24 17:26:06: }
+2021-09-24 17:26:11: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\static\queue.json'] {
+2021-09-24 17:26:11:   errno: -4058,
+2021-09-24 17:26:11:   code: 'ENOENT',
+2021-09-24 17:26:11:   syscall: 'open',
+2021-09-24 17:26:11:   path: 'C:\\Users\\user1\\Documents\\playground\\static\\queue.json'
+2021-09-24 17:26:11: }
+2021-09-24 17:26:16: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\static\queue.json'] {
+2021-09-24 17:26:16:   errno: -4058,
+2021-09-24 17:26:16:   code: 'ENOENT',
+2021-09-24 17:26:16:   syscall: 'open',
+2021-09-24 17:26:16:   path: 'C:\\Users\\user1\\Documents\\playground\\static\\queue.json'
+2021-09-24 17:26:16: }
+2021-09-24 17:26:21: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\static\queue.json'] {
+2021-09-24 17:26:21:   errno: -4058,
+2021-09-24 17:26:21:   code: 'ENOENT',
+2021-09-24 17:26:21:   syscall: 'open',
+2021-09-24 17:26:21:   path: 'C:\\Users\\user1\\Documents\\playground\\static\\queue.json'
+2021-09-24 17:26:21: }
+2021-09-24 17:26:26: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\static\queue.json'] {
+2021-09-24 17:26:26:   errno: -4058,
+2021-09-24 17:26:26:   code: 'ENOENT',
+2021-09-24 17:26:26:   syscall: 'open',
+2021-09-24 17:26:26:   path: 'C:\\Users\\user1\\Documents\\playground\\static\\queue.json'
+2021-09-24 17:26:26: }
+2021-09-24 17:26:31: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\static\queue.json'] {
+2021-09-24 17:26:31:   errno: -4058,
+2021-09-24 17:26:31:   code: 'ENOENT',
+2021-09-24 17:26:31:   syscall: 'open',
+2021-09-24 17:26:31:   path: 'C:\\Users\\user1\\Documents\\playground\\static\\queue.json'
+2021-09-24 17:26:31: }
+2021-09-24 17:26:36: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\static\queue.json'] {
+2021-09-24 17:26:36:   errno: -4058,
+2021-09-24 17:26:36:   code: 'ENOENT',
+2021-09-24 17:26:36:   syscall: 'open',
+2021-09-24 17:26:36:   path: 'C:\\Users\\user1\\Documents\\playground\\static\\queue.json'
+2021-09-24 17:26:36: }
+2021-09-24 17:26:41: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\static\queue.json'] {
+2021-09-24 17:26:41:   errno: -4058,
+2021-09-24 17:26:41:   code: 'ENOENT',
+2021-09-24 17:26:41:   syscall: 'open',
+2021-09-24 17:26:41:   path: 'C:\\Users\\user1\\Documents\\playground\\static\\queue.json'
+2021-09-24 17:26:41: }
+2021-09-24 17:26:46: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\static\queue.json'] {
+2021-09-24 17:26:46:   errno: -4058,
+2021-09-24 17:26:46:   code: 'ENOENT',
+2021-09-24 17:26:46:   syscall: 'open',
+2021-09-24 17:26:46:   path: 'C:\\Users\\user1\\Documents\\playground\\static\\queue.json'
+2021-09-24 17:26:46: }
+2021-09-24 17:26:51: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\static\queue.json'] {
+2021-09-24 17:26:51:   errno: -4058,
+2021-09-24 17:26:51:   code: 'ENOENT',
+2021-09-24 17:26:51:   syscall: 'open',
+2021-09-24 17:26:51:   path: 'C:\\Users\\user1\\Documents\\playground\\static\\queue.json'
+2021-09-24 17:26:51: }
+2021-09-24 17:26:56: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\static\queue.json'] {
+2021-09-24 17:26:56:   errno: -4058,
+2021-09-24 17:26:56:   code: 'ENOENT',
+2021-09-24 17:26:56:   syscall: 'open',
+2021-09-24 17:26:56:   path: 'C:\\Users\\user1\\Documents\\playground\\static\\queue.json'
+2021-09-24 17:26:56: }
+2021-09-24 17:27:01: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\static\queue.json'] {
+2021-09-24 17:27:01:   errno: -4058,
+2021-09-24 17:27:01:   code: 'ENOENT',
+2021-09-24 17:27:01:   syscall: 'open',
+2021-09-24 17:27:01:   path: 'C:\\Users\\user1\\Documents\\playground\\static\\queue.json'
+2021-09-24 17:27:01: }
+2021-09-24 17:27:06: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\static\queue.json'] {
+2021-09-24 17:27:06:   errno: -4058,
+2021-09-24 17:27:06:   code: 'ENOENT',
+2021-09-24 17:27:06:   syscall: 'open',
+2021-09-24 17:27:06:   path: 'C:\\Users\\user1\\Documents\\playground\\static\\queue.json'
+2021-09-24 17:27:06: }
+2021-09-24 17:27:11: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\static\queue.json'] {
+2021-09-24 17:27:11:   errno: -4058,
+2021-09-24 17:27:11:   code: 'ENOENT',
+2021-09-24 17:27:11:   syscall: 'open',
+2021-09-24 17:27:11:   path: 'C:\\Users\\user1\\Documents\\playground\\static\\queue.json'
+2021-09-24 17:27:11: }
+2021-09-24 17:27:14: [Error: ENOENT: no such file or directory, open 'C:\static\queue.json'] {
+2021-09-24 17:27:14:   errno: -4058,
+2021-09-24 17:27:14:   code: 'ENOENT',
+2021-09-24 17:27:14:   syscall: 'open',
+2021-09-24 17:27:14:   path: 'C:\\static\\queue.json'
+2021-09-24 17:27:14: }
+2021-09-24 17:27:19: [Error: ENOENT: no such file or directory, open 'C:\static\queue.json'] {
+2021-09-24 17:27:19:   errno: -4058,
+2021-09-24 17:27:19:   code: 'ENOENT',
+2021-09-24 17:27:19:   syscall: 'open',
+2021-09-24 17:27:19:   path: 'C:\\static\\queue.json'
+2021-09-24 17:27:19: }
+2021-09-24 17:27:24: [Error: ENOENT: no such file or directory, open 'C:\static\queue.json'] {
+2021-09-24 17:27:24:   errno: -4058,
+2021-09-24 17:27:24:   code: 'ENOENT',
+2021-09-24 17:27:24:   syscall: 'open',
+2021-09-24 17:27:24:   path: 'C:\\static\\queue.json'
+2021-09-24 17:27:24: }
+2021-09-24 17:27:29: [Error: ENOENT: no such file or directory, open 'C:\static\queue.json'] {
+2021-09-24 17:27:29:   errno: -4058,
+2021-09-24 17:27:29:   code: 'ENOENT',
+2021-09-24 17:27:29:   syscall: 'open',
+2021-09-24 17:27:29:   path: 'C:\\static\\queue.json'
+2021-09-24 17:27:29: }
+2021-09-24 17:27:34: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:27:34:   errno: -4058,
+2021-09-24 17:27:34:   code: 'ENOENT',
+2021-09-24 17:27:34:   syscall: 'open',
+2021-09-24 17:27:34:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:27:34: }
+2021-09-24 17:27:39: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:27:39:   errno: -4058,
+2021-09-24 17:27:39:   code: 'ENOENT',
+2021-09-24 17:27:39:   syscall: 'open',
+2021-09-24 17:27:39:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:27:39: }
+2021-09-24 17:27:44: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:27:44:   errno: -4058,
+2021-09-24 17:27:44:   code: 'ENOENT',
+2021-09-24 17:27:44:   syscall: 'open',
+2021-09-24 17:27:44:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:27:44: }
+2021-09-24 17:27:49: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:27:49:   errno: -4058,
+2021-09-24 17:27:49:   code: 'ENOENT',
+2021-09-24 17:27:49:   syscall: 'open',
+2021-09-24 17:27:49:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:27:49: }
+2021-09-24 17:27:54: [Error: ENOENT: no such file or directory, open 'C:\Users\user1\Documents\playground\mailer\static\queue.json'] {
+2021-09-24 17:27:54:   errno: -4058,
+2021-09-24 17:27:54:   code: 'ENOENT',
+2021-09-24 17:27:54:   syscall: 'open',
+2021-09-24 17:27:54:   path: 'C:\\Users\\user1\\Documents\\playground\\mailer\\static\\queue.json'
+2021-09-24 17:27:54: }
+2021-09-24 17:29:09: file err: stop interval
+2021-09-24 17:29:09: lastIndex:  1
+2021-09-24 17:29:09: TypeError: Cannot read property 'find' of null
+2021-09-24 17:29:09:     at Timeout.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:104:22)
+2021-09-24 17:49:40: file err: stop interval
+2021-09-24 17:49:40: lastIndex:  1
+2021-09-24 17:49:40: TypeError: Cannot read property 'find' of null
+2021-09-24 17:49:40:     at Timeout.<anonymous> (C:\Users\user1\Documents\playground\mailer\src\app.js:104:22)
