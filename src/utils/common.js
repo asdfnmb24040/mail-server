@@ -5,10 +5,10 @@ async function getFile ( fileName ) {
 
 	switch ( fileName ) {
 		case 'queue':
-			url = './static/queue.json';
+			url = './src/static/queue.json';
 			break;
 		case 'queueInfo':
-			url = './static/queueInfo.json';
+			url = './src/static/queueInfo.json';
 			break;
 		default:
 			return null
