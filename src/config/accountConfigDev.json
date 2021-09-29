@@ -1,0 +1,20 @@
+{
+	"info": {
+		"service": "gmail",
+		"host": "smtp.gmail.com"
+	},
+	"auths": [
+		{
+			"user": "armandTestTwo@gmail.com",
+			"pass": "armandTestOne2!"
+		},
+		{
+			"user": "armandTestOne@gmail.com",
+			"pass": "armandTestOne1!"
+		},
+		{
+			"user": "future.td02@gmail.com",
+			"pass": "future83177566"
+		}
+	]
+}

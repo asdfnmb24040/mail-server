@@ -1,0 +1,25 @@
+{
+	"info": {
+		"service": "gmail",
+		"host": "smtp.gmail.com"
+	},
+	"auths": [
+		{
+			"user": "armandTestTwo@gmail.com",
+			"pass": "armandTestOne2!"
+		},
+		{
+			"user": "armandTestOne@gmail.com",
+			"pass": "armandTestOne1!"
+		},
+		{
+			"user": "future.td02@gmail.com",
+			"pass": "future83177566"
+		}
+	],
+	"remind": [
+		"每組Gmail帳號需至 https://myaccount.google.com/lesssecureapps 開啟允許低安全性應用程式存取",
+		"每組Gmail帳號需至 https://accounts.google.com/DisplayUnlockCaptcha 啟用DisplayUnlockCaptcha",
+		"有提供API測試目前所有帳號，http://127.0.0.1:3002/mail/testAccounts"
+	]
+}

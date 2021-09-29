@@ -1,90 +1,90 @@
 const express = require( 'express' );
 const router = express.Router();
-const fs = require( 'fs' );
-const path = require( 'path' );
 const common = require( '../utils/common' );
 const rateLimit = require( "express-rate-limit" );
-const apiLimiter = rateLimit( {
-	windowMs: 15 * 60 * 1000, // 15 minutes
-	max: 100,
-	message: "Too many accounts created from this IP, please try again after an hour"
-} );
-
-router.post( '/addQueue', apiLimiter, async ( req, res ) => {
-	console.log( 'addQueue' );
-
-	const returnObj = {
-		success: false,
-		msg: '無動作'
-	}
-	const { senderName, mailAddress, phoneNum, companyName, content } = req.body;
-
-	if ( !senderName || !mailAddress || !phoneNum || !companyName || !content ) {
-		returnObj.msg = '欄位檢核失敗，必填欄位 {senderName, mailAddress, phoneNum, companyName, content}'
-		res.json( returnObj )
-		return;
-	}
-
-	const mailItem = { senderName, mailAddress, phoneNum, companyName, content };
-	const queue = await common.getFile( 'queue' );
-	const idx = common.getQueueLastIndex( queue );
-
-	mailItem.index = idx + 1;
-	mailItem.createTime = new Date().toLocaleString();
-
-	queue.push( mailItem );
-
-	fs.writeFileSync( path.resolve( __dirname, "../static/queue.json" ), JSON.stringify( queue ) );
-
-	returnObj.success = true;
-	returnObj.msg = '成功';
-
-	res.json( returnObj )
-} )
-
+const config = require( '../config/startup' );
+const apiLimiter = rateLimit( config.apiLimiter );
 const Queue = require( 'bull' );
 const sendMailQueue = new Queue( 'sendMail', {
-	redis: {
-		host: '127.0.0.1',
-		port: 6379,
-		// password: 'root'
-	}
+	redis: config.redis
 } );
-let fakeIndex = 0;
 
-router.post( '/addQueueTwo', apiLimiter, async ( req, res ) => {
-	console.log( 'addQueueTwo call' );
+let mailIndex = 0;
+
+router.post( '/addQueue', apiLimiter, async ( req, res ) => {
+
+	const returnObj = {
+		success: true
+	}
+	const vaild = common.vaildMail( req.body );
+
+	if ( !vaild ) {
+		returnObj.success = false;
+	}
+
+	res.json( returnObj )
+
+	if ( returnObj.success ) {
+		const mail = req.body;
+		mail.index = mailIndex;
+		mail.createTime = new Date().toLocaleString();
+		mailIndex++;
+
+		console.log( 'Queue add' );
+
+		const options = {
+			// delay: 1000,
+			attempts: 2
+		};
+		sendMailQueue.add( req.body, options );
+	}
+} )
+
+router.get( '/testAccounts', apiLimiter, async ( req, res ) => {
+	const accountsInfo = await common.getFile( 'accountConfig' );
+	const auths = accountsInfo.auths;
+	const info = accountsInfo.info;
+	const result = [];
+	const mailItem = { senderName: 'test', mailAddress: 'test', phoneNum: 'test', companyName: 'test', content: 'test', index: -1 }
+	for ( let i in auths ) {
+		const account = auths[ i ];
+		const config = Object.assign( { auth: account }, info );
+		const sendResult = await common.sendMail( mailItem, config );
+		result.push( {
+			item: account.user,
+			testResult: sendResult
+		} )
+
+		console.log( 'test item => ', { item: account.user, sendResult } );
+	}
+	return res.json( result );
+} )
+
+router.post( '/addQueueTest', apiLimiter, async ( req, res ) => {
+	console.log( 'addQueueTest call' );
 	res.json( 'ok' )
-
-	const options = {
-		delay: 3000,
-		attempts: 2
-	};
+	const limit = 100;
 	const mail = req.body;
-	mail.index = fakeIndex;
-	mail.createTime = new Date().toLocaleString();
-	fakeIndex++;
 
-	console.log( 'addQueueTwo add' );
-	sendMailQueue.add( req.body, options );
+	while ( mailIndex < limit ) {
+		mail.index = mailIndex;
+		mail.createTime = new Date().toLocaleString();
+		mailIndex++;
+
+		const options = {
+			delay: 1000,
+			attempts: 2
+		};
+		sendMailQueue.add( Object.assign( {}, mail ), options );
+		console.log( 'addQueueTwo add fakeIndex: ', mailIndex );
+	}
 } )
 
 sendMailQueue.process( async job => {
-	await common.sendMail( job.data );
-	console.log( 'sleep' )
-	sleep( 3000 );
-	return;
+	return await common.sendMailProcess( job.data );;
 } );
 
-function fakeFun ( params ) {
-	console.log( 'send', params.index );
-}
+console.log( `Mail Server Is Running` );
 
-function sleep ( milliseconds ) {
-	var start = new Date().getTime();
-	while ( 1 )
-		if ( ( new Date().getTime() - start ) > milliseconds )
-			break;
-}
 
 module.exports = router;

@@ -1,4 +1,4 @@
-
+//使用靜態文件做對列 (已棄用) 改用 bull
 const fs = require( 'fs' );
 const path = require( 'path' );
 const common = require( '../utils/common' );
@@ -97,52 +97,6 @@ function checkType ( name, obj ) {
 	}
 	return false;
 }
-
-// function sendMail ( mailItem ) {
-// 	//send mail
-// 	try {
-// 		const { senderName, mailAddress, phoneNum, companyName, content, index } = mailItem;
-
-// 		if ( !senderName || !mailAddress || !phoneNum || !companyName || !content ) {
-// 			console.log( '欄位檢核失敗', { next } );
-// 			return;
-// 		}
-
-// 		const transporter = nodemailer.createTransport( mailConfig );
-// 		const mail = {
-// 			// to: 'armanddeng@future.net.co',
-// 			to: 'mayo.chien@future.net.co',
-// 			subject: 'sigma展覽訊息信件' + index,
-// 			html:
-// 				`
-// 				<div>${senderName}<div/><br>
-// 				<div>${mailAddress}<div/><br>
-// 				<div>${phoneNum}<div/><br>
-// 				<div>${companyName}<div/><br>
-// 				<div>${content}<div/><br>
-// 			`
-// 		};
-
-// 		transporter.sendMail( mail, ( error, info ) => {
-// 			if ( error ) {
-// 				console.log( '錯誤:' );
-// 				console.log( error );
-
-// 			} else {
-// 				console.log( '信件已發送:' );
-// 				console.log( JSON.stringify( mail ) );
-// 				console.log( info.response );
-// 			}
-// 			return;
-// 		} );
-// 		// console.log( 'send test' )
-// 		// return;
-
-// 	} catch ( error ) {
-// 		console.log( error )
-// 		return;
-// 	}
-// }
 
 function continueNext ( queueInfo, queue ) {
 	if ( queueInfo.index < common.getQueueLastIndex( queue ) ) {//有下一個的話，index + 1 

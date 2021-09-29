@@ -1,6 +1,8 @@
 const fs = require( 'fs' );
-const mailConfig = require( '../config/mailConfig' );
 const nodemailer = require( 'nodemailer' );
+const configStartup = require( '../config/startup' );
+const retryLimit = 3;
+let retryCount = 0;
 
 async function getFile ( fileName ) {
 	let url = '';
@@ -11,6 +13,9 @@ async function getFile ( fileName ) {
 			break;
 		case 'queueInfo':
 			url = './src/static/queueInfo.json';
+			break;
+		case 'accountConfig':
+			url = './src/config/accountConfig.json';
 			break;
 		default:
 			return null
@@ -49,52 +54,126 @@ function getQueueLastIndex ( queue ) {
 	return 0;
 }
 
-async function sendMail ( mailItem ) {
+function vaildMail ( mailItem ) {
+	const { senderName, mailAddress, phoneNum, companyName, content, index } = mailItem;
+
+	if ( !senderName || !mailAddress || !phoneNum || !companyName ) {
+		console.error( '欄位檢核失敗', { mailItem } );
+		return false;
+	}
+
+	return true;
+}
+
+async function sendMailProcess ( mailItem, options ) {
+	//sleep
+	await sleep( configStartup.mail.sleep );
+
+	//vaild
+	if ( !vaildMail( mailItem ) ) {
+		return;
+	}
+
+	//retry
+	if ( !!options && options.retry ) {
+		console.log( { retryCount, retryLimit } ) //show retry info
+		if ( retryCount < retryLimit ) {
+			retryCount++;
+			console.log( 'Send mail retry' )
+		} else {
+			console.error( 'Reached the retry limit', { mailItem } )
+			return;
+		}
+	}
+
+	//get config
+	console.log( 'sendMail', mailItem.index );
+	const config = await getConfig();
+	if ( !config ) return;
+
+	//send mail
+
+	const sendResult = await sendMail( mailItem, config );
+
+	if ( !sendResult ) {
+		await sendMailProcess( mailItem, { retry: true } );
+	}
+
+	return;
+}
+
+async function sendMail ( mailItem, config ) {
 	//send mail
 	try {
 		const { senderName, mailAddress, phoneNum, companyName, content, index } = mailItem;
-
-		if ( !senderName || !mailAddress || !phoneNum || !companyName || !content ) {
-			console.log( '欄位檢核失敗', { mailItem } );
-			return;
-		}
-
-		console.log( 'sendMail', mailItem.index );
-
-		const transporter = nodemailer.createTransport( mailConfig );
+		const transporter = nodemailer.createTransport( config );
 		const mail = {
-			// to: 'armanddeng@future.net.co',
-			to: 'mayo.chien@future.net.co',
-			subject: 'sigma展覽訊息信件' + index,
+			to: configStartup.mail.to,
+			// to: 'mayo.chien@future.net.co',
+			subject: 'sigma展覽訊息信件 編號:' + index,
 			html:
 				`
-				<div>${senderName}<div/><br>
-				<div>${mailAddress}<div/><br>
-				<div>${phoneNum}<div/><br>
-				<div>${companyName}<div/><br>
-				<div>${content}<div/><br>
+				<div>Name:${senderName}<div/><br>
+				<div>Email:${mailAddress}<div/><br>
+				<div>Phone:${phoneNum}<div/><br>
+				<div>Company:${companyName}<div/><br>
+				<div>Message:${content}<div/><br>
 			`
 		};
-		// const sendRedult = await transporter.sendMail( mail );
-		// const error = sendRedult.error;
-		// const info = sendRedult.info;
+		const sendResult = await transporter.sendMail( mail );
+		const error = sendResult.error;
 
-		// if ( error ) {
-		// 	console.log( '錯誤:' );
-		// 	console.log( error );
+		// console.log( 'sendResult=>', JSON.stringify( sendResult ) );
 
-		// } else {
-		// 	console.log( '信件已發送:' );
-		// 	console.log( JSON.stringify( mail ) );
-		// 	console.log( info.response );
-		// }
+		if ( error ) {
+			console.log( '錯誤:', error );
+			console.log( 'mail:',JSON.stringify( mail ) );
+			console.log( 'sendResult:', JSON.stringify( sendResult ) );
 
+			return false;
+		} else {
+			// console.log( '信件已發送' );
+			return true;
+		}
 	} catch ( error ) {
-		console.log( error )
-		return;
+		console.error( 'sendMail Error=>', error )
+		return false;
+	}
+}
+
+async function sleep ( ms ) {
+	console.log( 'sleep => ', ms )
+	return new Promise( ( resolve ) => {
+		setTimeout( resolve, ms );
+	} );
+}
+
+let accountIdx = 0;
+async function getConfig () {
+	try {
+		const accounts = await getFile( 'accountConfig' );
+		const auths = accounts.auths;
+		if ( !auths || auths.length < 1 ) {
+			console.error( 'getConfig Error : get config error' );
+
+			return null;
+		}
+
+		if ( accountIdx >= auths.length ) {
+			accountIdx = 0;
+		}
+
+		const mailConfig = Object.assign( { auth: auths[ accountIdx ] }, accounts.info );
+
+		// console.log( { mailConfig } )
+		accountIdx++;
+
+		return mailConfig;
+	} catch ( err ) {
+		console.error( 'getConfig Error', err );
+		return null;
 	}
 }
 
 
-
-module.exports = { getFile, getQueueLastIndex, sendMail };
+module.exports = { getFile, getQueueLastIndex, sendMailProcess, vaildMail, sendMail };

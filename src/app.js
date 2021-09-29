@@ -2,7 +2,7 @@ const express = require( 'express' );
 const bodyParser = require( 'body-parser' )
 const cors = require( 'cors' );
 const mail = require( './route/mail' );
-const mailService = require( './service/mailService' )
+// const mailService = require( './service/mailService' ) //使用靜態文件做對列 (已棄用) 改用 bull
 const app = express();
 const port = 3002;
 const corsOptions = {
@@ -15,7 +15,7 @@ const corsOptions = {
 };
 
 app.listen( port, () => {
-	console.log( `app listening at http://localhost:${port}` )
+	console.log( `App listening at http://localhost:${port}` )
 } )
 app.use( cors( corsOptions ) );
 app.use( bodyParser.json() )
