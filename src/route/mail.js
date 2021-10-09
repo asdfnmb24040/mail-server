@@ -11,6 +11,30 @@ const sendMailQueue = new Queue( 'sendMail', {
 
 let mailIndex = 0;
 
+sendMailQueue.process( async job => {
+	return await common.sendMailProcess( job.data );;
+} );
+
+router.get( '/testAccounts', apiLimiter, async ( req, res ) => {
+	const accountsInfo = await common.getFile( 'accountConfig' );
+	const auths = accountsInfo.auths;
+	const info = accountsInfo.info;
+	const result = [];
+	const mailItem = { senderName: 'test', mailAddress: 'test', phoneNum: 'test', companyName: 'test', content: 'test', index: -1 }
+	for ( let i in auths ) {
+		const account = auths[ i ];
+		const config = Object.assign( { auth: account }, info );
+		const sendResult = await common.sendMail( mailItem, config );
+		result.push( {
+			account: account.user,
+			testResult: sendResult
+		} )
+
+		console.log( 'test item => ', { item: account.user, sendResult } );
+	}
+	return res.json( result );
+} )
+
 router.post( '/addQueue', apiLimiter, async ( req, res ) => {
 
 	const returnObj = {
@@ -40,26 +64,6 @@ router.post( '/addQueue', apiLimiter, async ( req, res ) => {
 	}
 } )
 
-router.get( '/testAccounts', apiLimiter, async ( req, res ) => {
-	const accountsInfo = await common.getFile( 'accountConfig' );
-	const auths = accountsInfo.auths;
-	const info = accountsInfo.info;
-	const result = [];
-	const mailItem = { senderName: 'test', mailAddress: 'test', phoneNum: 'test', companyName: 'test', content: 'test', index: -1 }
-	for ( let i in auths ) {
-		const account = auths[ i ];
-		const config = Object.assign( { auth: account }, info );
-		const sendResult = await common.sendMail( mailItem, config );
-		result.push( {
-			item: account.user,
-			testResult: sendResult
-		} )
-
-		console.log( 'test item => ', { item: account.user, sendResult } );
-	}
-	return res.json( result );
-} )
-
 router.post( '/addQueueTest', apiLimiter, async ( req, res ) => {
 	console.log( 'addQueueTest call' );
 	res.json( 'ok' )
@@ -79,10 +83,6 @@ router.post( '/addQueueTest', apiLimiter, async ( req, res ) => {
 		console.log( 'addQueueTwo add fakeIndex: ', mailIndex );
 	}
 } )
-
-sendMailQueue.process( async job => {
-	return await common.sendMailProcess( job.data );;
-} );
 
 console.log( `Mail Server Is Running` );
 
