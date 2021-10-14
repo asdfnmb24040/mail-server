@@ -1,0 +1,10 @@
+docker build . -t mailer
+docker run -p 3002:3002 -d mailer
+
+docker container prune
+docker image prune    
+
+docker tag mailer asdfnmb24040/mailer
+docker images
+docker login
+docker push asdfnmb24040/mailer
