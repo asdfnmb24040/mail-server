@@ -23,14 +23,14 @@ async function init () {
 
 		//檢查Queue格式，格式錯誤則設為預設
 		if ( checkType( 'queue', queue ) ) {
-			//
+			console.log('Queue格式錯誤');
 		} else {
 			fs.writeFileSync( path.resolve( __dirname, "../static/queue.json" ), JSON.stringify( queueDefault ) );
 		}
 
 		//檢查QueueInfo格式，格式錯誤則設為預設
 		if ( checkType( 'queueInfo', queueInfo ) ) {
-			//
+			console.log('QueueInfo格式錯誤');
 		} else {
 			if ( checkType( 'queue', queue ) ) {
 				queueInfoDefault.index = common.getQueueLastIndex( queue ); //設定index初始值 (如果indx為0，則從對列最後繼續)
@@ -63,12 +63,8 @@ async function mailInterval () {
 			console.error( 'lastIndex: ', lastIndex );
 		}
 
-		// console.log( 'index => ', queueInfo.index )
-		// console.log( 'queue => ', common.getQueueLastIndex( queue ) )
-
 		//check if queue has new item
 		if ( queueInfo.index == common.getQueueLastIndex( queue ) ) {
-			// console.log( 'wait' )
 			return;
 		}
 

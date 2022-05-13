@@ -9,8 +9,7 @@ module.exports = {
 		message: "Too many req from this IP, please try again after a day"
 	},
 	mail: {
-		to: 'armanddeng@future.net.co',
-		// to: 'hengtseng@future.net.co',
+		to: 'here is your receiver Email',
 		sleep: 2000,
 	}
 }

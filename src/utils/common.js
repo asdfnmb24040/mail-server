@@ -110,7 +110,7 @@ async function sendMail ( mailItem, config ) {
 		const mail = {
 			to: configStartup.mail.to,
 			// to: 'mayo.chien@future.net.co',
-			subject: 'sigma展覽訊息信件 編號:' + index,
+			subject: '信件編號:' + index,
 			html:
 				`
 				<div>Name:${senderName}<div/><br>
